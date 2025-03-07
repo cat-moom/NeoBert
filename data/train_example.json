@@ -1,0 +1,458 @@
+[
+    {
+        "label": "1",
+        "text": "YFAMYGEKVAHTHVDTLYVMYHYYTWAVLAYTWY[SEP]SLFEGDHGYL"
+    },
+    {
+        "label": "1",
+        "text": "YSAMYQENVAHTDENTLYIIYEHYTWARLAYTWY[SEP]GTNLQTVQLFMKRNQTLQNEILGHT"
+    },
+    {
+        "label": "1",
+        "text": "YSAMYEEKVAHTDENIAYLMFHYYTWAVQAYTGY[SEP]YSSMLVNNL"
+    },
+    {
+        "label": "1",
+        "text": "YFAMYGEKVAHTHVDTLYVRYHYYTWAVLAYTWY[SEP]TLWCSPIKV"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]LAKHAGTGW"
+    },
+    {
+        "label": "1",
+        "text": "YYSEYRNIYAQTDESNLYLSYDYYTWAERAYEWY[SEP]MAPVTAPRRAGEAKGK"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]KTSNDPALPLSV"
+    },
+    {
+        "label": "1",
+        "text": "YTAMYRNNVAHIDVDTLYIMYQDYTWAVLAYTWH[SEP]ETLSVGIGNLR"
+    },
+    {
+        "label": "1",
+        "text": "YYATYGENMASTYENIAYIRYDSYTWAVLAYLWY[SEP]MSFTGALKNSTW"
+    },
+    {
+        "label": "1",
+        "text": "YYTKYREISTNTYENTAYIRYDDYTWAVDAYLSY[SEP]LHPLAVEEAVF"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]YGLTSFASLW"
+    },
+    {
+        "label": "1",
+        "text": "YYAGYREKYRQTDVSNLYLWYDSYTWAAQAYTWY[SEP]HYTQSETEFLLSSAETDENETLDYE"
+    },
+    {
+        "label": "1",
+        "text": "YDSGYREKYRQADVSNLYLRSDSYTLAALAYTWY[SEP]PPNRNSLSDSPLMAGPEAAR"
+    },
+    {
+        "label": "1",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]SFDDLLASCST"
+    },
+    {
+        "label": "1",
+        "text": "YYSEYRNICTNTYESNLYLRYDYYTWAELAYLWY[SEP]GHRSEGPSL"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYRNNVAQTDVDTLYIRYHYYTWAVWAYTWY[SEP]MSAAVSLGV"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYRNNVAQTDVDTLYIRYHYYTWAVWAYTWY[SEP]ETFPVPRTV"
+    },
+    {
+        "label": "1",
+        "text": "YYTKYREISTNTYENTAYIRYDDYTWAVLAYLSY[SEP]SNGRLTYQVFKIQVLMNGRKHFVEK"
+    },
+    {
+        "label": "1",
+        "text": "YYTKYREISTNTYENTAYIRYDDYTWAVLAYLSY[SEP]DVLADDRDDYDFMMQTSTYYYSVRI"
+    },
+    {
+        "label": "1",
+        "text": "YDSEYRNIFTNTDESNLYLSYNYYTWAVDAYTWY[SEP]TPKDKKVL"
+    },
+    {
+        "label": "1",
+        "text": "YYAEYRNIYAQTDESNLYWTYNLYTWAVLAYTWY[SEP]APKDSRSGGAAAVA"
+    },
+    {
+        "label": "1",
+        "text": "YYAGYREKYRQADVSNLYLWYDSYTWAEWAYTWY[SEP]VVCLAVGLNRRLCNLTNCFIVSLAI"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]RSVVQAGVQW"
+    },
+    {
+        "label": "1",
+        "text": "YDSGYREKYRQADVNKLYLWYDSYTWAEWAYTWY[SEP]LSYAFSVWRMEGSWSMSASH"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYRNISTNTYESNLYIRYDSYTWAELAYLWY[SEP]LQALYALGAY"
+    },
+    {
+        "label": "1",
+        "text": "YYAGYREKYRQTDVSNLYLRYNFYTWAERAYTWY[SEP]PKPSPQPSPKPSTKNSPKKGGAPAA"
+    },
+    {
+        "label": "1",
+        "text": "YYAGYREKYRQADVSNLYLWYDSYTWAEWAYTWY[SEP]LHVFEPRYRLMIKRCMETGTKRFGM"
+    },
+    {
+        "label": "1",
+        "text": "YYAGYREKYRQTDVNKLYLRYDSYTWAEWAYEWY[SEP]PKAKFLTLGSKFCYSGRTQAQTRQA"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYRNNVAQTDVDTLYIRYQDYTWAEWAYRWY[SEP]FVIAGLAKR"
+    },
+    {
+        "label": "1",
+        "text": "YYTKYREISTNTYENTAYIRYDDYTWAVLAYLSY[SEP]QLKQWEEGSGMTAIRKIKRADPQQL"
+    },
+    {
+        "label": "1",
+        "text": "YDSGYREKYRQADVSNLYLRSDSYTLAALAYTWY[SEP]ARDDLITGLYQLPEPRMIVRCRKQD"
+    },
+    {
+        "label": "1",
+        "text": "YFAMYGEKVAHTHVDTLYVMYHYYTWAVLAYTWY[SEP]SLLEM(+15.99)ALSL"
+    },
+    {
+        "label": "1",
+        "text": "YFAMYQENVAQTDVDTLYIIYRDYTWAELAYTWY[SEP]LTVIPSGAFEYLYKLRELWLRNNPI"
+    },
+    {
+        "label": "1",
+        "text": "YDSGYREKYRQADVNKLYLWYDSYTWAEWAYTWY[SEP]VRRASDPVRTGSKGLALPRVPRFSS"
+    },
+    {
+        "label": "1",
+        "text": "YDSEYRNIFTNTDESNLYLSYNYYTWAVDAYTWY[SEP]HPKAEKTL"
+    },
+    {
+        "label": "1",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]RFVSPKVPLL"
+    },
+    {
+        "label": "1",
+        "text": "YYAMYGENMASTYENIAYIVYNYYTWAVLAYLWY[SEP]HTLVTEPPFW"
+    },
+    {
+        "label": "1",
+        "text": "YFAMYQENVAQTDVDTLYIIYRDYTWAELAYTWY[SEP]SVAVGTTHTPISYSPIGVSSTSFPT"
+    },
+    {
+        "label": "1",
+        "text": "YYAGYREKYRQTDVSNLYIRYDYYTWAELAYLWY[SEP]ELKKESKKERPEKTSKDEKVVKSED"
+    },
+    {
+        "label": "1",
+        "text": "YSAMYEEKVAHTDENIAYLMFHYYTWAVQAYTGY[SEP]TYLNFFHLSTF"
+    },
+    {
+        "label": "1",
+        "text": "YYSEYRNIYAQTDESNLYLSYDYYTWAERAYEWY[SEP]LYDVYTNKF"
+    },
+    {
+        "label": "1",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]RYNEM(+15.99)TAPQQR"
+    },
+    {
+        "label": "1",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]GLGSGDLWSLM(+15.99)K"
+    },
+    {
+        "label": "0",
+        "text": "YYATYGENMASTYENIAYIRYDSYTWAVLAYLWY[SEP]RPRALLLGA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]LPARAGPGA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]VPLEFPVVA"
+    },
+    {
+        "label": "0",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]RPGQVNPRA"
+    },
+    {
+        "label": "0",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]RPLLSRLSA"
+    },
+    {
+        "label": "0",
+        "text": "YTAMYRNNVAHIDVDTLYIMYQDYTWAVLAYTWY[SEP]RPAKLLM(+15.99)SA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYRNNVAQTDVDTLYIIYRDYTWAAQAYRWY[SEP]SPRPPLAGA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYREISTNTYESNLYLRYDSYTWAEWAYLWY[SEP]AAAPASRPV"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYRNNVAQTDVDTLYIIYRDYTWAAQAYRWY[SEP]RPLLSRLSA"
+    },
+    {
+        "label": "0",
+        "text": "YTAMYLQNVAQTDANTLYIMYRDYTWAVLAYTWY[SEP]LPRVTGAAA"
+    },
+    {
+        "label": "0",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]APRPVERPA"
+    },
+    {
+        "label": "0",
+        "text": "YYAGYREKYRQTDVSNLYIRYDYYTWAELAYLWY[SEP]TAKAPSQAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVMYHYYTWAVLAYTWY[SEP]M(+15.99)APPPRAAL"
+    },
+    {
+        "label": "0",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]M(+15.99)PWRSHRTAA"
+    },
+    {
+        "label": "0",
+        "text": "YDSGYREKYRQADVSNLYLRSDSYTLAALAYTWY[SEP]RPRPSGLLVK"
+    },
+    {
+        "label": "0",
+        "text": "YHTKYREISTNTYESNLYLRYNYYSLAVLAYEWY[SEP]MVRPVAVAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVMYHYYTWAVLAYTWY[SEP]APRPVERPAA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]LPGATTAAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVMYHYYTWAVLAYTWY[SEP]SPKPASSPRA"
+    },
+    {
+        "label": "0",
+        "text": "YDSEYRNIFTNTDESNLYLSYNYYTWAVDAYTWY[SEP]MPRAAAAAA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYRNNVAHTDANTLYIRYQDYTWAEWAYRWY[SEP]RPLSARQPA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]MPRATFLGA"
+    },
+    {
+        "label": "0",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]KPAPVRGAP"
+    },
+    {
+        "label": "0",
+        "text": "YYSEYRNIYAQTDESNLYLSYNYYTWAVDAYTWY[SEP]TPYGYFLISA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]MPRPAGRSA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]LPAFRLPAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVMYHYYTWAVLAYTWY[SEP]SPTKPLM(+15.99)SA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]Q(-17.03)PKLTSREV"
+    },
+    {
+        "label": "0",
+        "text": "YHTKYREISTNTYESNLYWTYNYYTWAVLAYEWY[SEP]LPAPVRPAA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYRNISTNTYESNLYIRYDSYTWAELAYLWY[SEP]SPKPASSPRA"
+    },
+    {
+        "label": "0",
+        "text": "YYTKYREISTNTYENTAYIRYDDYTWAVLAYLSY[SEP]EAKPAGWAA"
+    },
+    {
+        "label": "0",
+        "text": "YTAMYQENVAHIDVDTLYIMYQDYTWAVLAYTWY[SEP]APAHGSSLTA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYQENMAHTDANTLYIIYRDYTWVARVYRGY[SEP]QPRHLAPGSAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVRYHYYTWAVLAYTWY[SEP]RPRLPREAA"
+    },
+    {
+        "label": "0",
+        "text": "YYATYGENMASTYENIAYIRYDSYTWAVLAYLWY[SEP]LVRKPSGAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYQENVAQTDVDTLYIIYRDYTWAELAYTWY[SEP]SPRLYSLSTA"
+    },
+    {
+        "label": "0",
+        "text": "YTAMYRNNVAHIDVDTLYIMYQDYTWAVLAYTWH[SEP]LPHLSLAAA"
+    },
+    {
+        "label": "0",
+        "text": "YHTKYREISTNTYESNLYLRYNYYSLAVLAYEWY[SEP]APLAPPREA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYRNISTNTYESNLYIRYDSYTWAELAYLWY[SEP]EAKPAGWAA"
+    },
+    {
+        "label": "0",
+        "text": "YHTKYREISTNTYESNLYLRYNYYSLAVLAYEWY[SEP]TPASRSLPA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVRYHYYTWAVLAYTWY[SEP]SPTKPIMSA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYRNISTNTYESNLYIRYDSYTWAELAYLWY[SEP]RPSPSTRPVA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYQENVAQTDVDTLYIIYRDYTWAAQAYRWY[SEP]SPHQLGMIT"
+    },
+    {
+        "label": "0",
+        "text": "YYTMYREISTNTYENTAYWTYNLYTWAVLAYEWY[SEP]RPNIASSQLRV"
+    },
+    {
+        "label": "0",
+        "text": "YYAGYREKYRQADVSNLYLWYDSYTWAEWAYTWY[SEP]LPAAGHTTA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYRNISTNTYESNLYIRYDSYTWAELAYLWY[SEP]SPLLLQAKA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]RPWWPGSSA"
+    },
+    {
+        "label": "0",
+        "text": "YYAEYRNIYAQTDESNLYWTYNLYTWAVLAYLWY[SEP]APM(+15.99)ALRVRA"
+    },
+    {
+        "label": "0",
+        "text": "YYSEYRNICTNTDESNLYLWYNFYTWAELAYTWH[SEP]M(+15.99)PYNSFFSA"
+    },
+    {
+        "label": "0",
+        "text": "YSAMYEEKVAHTDENIAYLMFHYYTWAVQAYTGY[SEP]RPLNALRAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVRYHYYTWAVLAYTWY[SEP]RPSGGTLSA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVRYHYYTWAEWAYTWY[SEP]M(+15.99)PWRSHRTAA"
+    },
+    {
+        "label": "0",
+        "text": "YDSEYRNIFTNTDESNLYLSYNYYTWAVDAYTWY[SEP]LPKQKREAL"
+    },
+    {
+        "label": "0",
+        "text": "YYAGYREKYRQTDVNKLYLRYNFYTWAERAYTWY[SEP]APLYQVAAA"
+    },
+    {
+        "label": "0",
+        "text": "YYAEYRNIYAQTDESNLYWTYNLYTWAELAYTWY[SEP]EETEVWKDY"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYGENMASTYENIAYIVYDSYTWAVLAYLWY[SEP]APLPSLPSA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYQENVAHTDESIAYIMYQDYTWAVLAYTWY[SEP]LPSLPLHEPA"
+    },
+    {
+        "label": "0",
+        "text": "YYAMYREISTNTYESNLYLRYDSYTWAEWAYLWY[SEP]LPALAGVSA"
+    },
+    {
+        "label": "0",
+        "text": "YHSTYRNISTNTYESNLYLRYDSYTWAVLAYTWH[SEP]RPRTSHFGVEVAA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYQENVAHTDESIAYIMYQDYTWAVLAYTWY[SEP]RPRPSGLLVK"
+    },
+    {
+        "label": "0",
+        "text": "YHTKYREISTNTYESNLYWRYNLYTWAVDAYLSY[SEP]RPNIASSQLRV"
+    },
+    {
+        "label": "0",
+        "text": "YSAMYEEKVAHTDENIAYLMFHYYTWAVQAYTGY[SEP]APLAPPREA"
+    },
+    {
+        "label": "0",
+        "text": "YSAGYREKYRQTDVSNLYLWFDSYTWAERAYTWY[SEP]MPASVPWSPA"
+    },
+    {
+        "label": "0",
+        "text": "YYSEYRNIYAQTDESNLYLSYDYYTWAERAYEWY[SEP]SPKTPGQVP"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVMYHYYTWAVLAYTWY[SEP]SPTAISHPA"
+    },
+    {
+        "label": "0",
+        "text": "YYAGYREKYRQADVSNLYLWYDSYTWAEWAYTWY[SEP]APM(+15.99)SVNLDA"
+    },
+    {
+        "label": "0",
+        "text": "YHTEYREICAKTDEDTLYLNYHDYTWAVLAYEWY[SEP]RPRDPPASA"
+    },
+    {
+        "label": "0",
+        "text": "YTAMYRNNVAHIDVDTLYIMYQDYTWAVLAYTWY[SEP]LPKLVWNSGA"
+    },
+    {
+        "label": "0",
+        "text": "YYATYGENMASTYENIAYIRYDSYTWAVLAYLWY[SEP]VAAASGPAV"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYQENMAHTDANTLYIIYRDYTWVARVYRGY[SEP]APWGGGVASA"
+    },
+    {
+        "label": "0",
+        "text": "YFAMYGEKVAHTHVDTLYVRYHYYTWAVLAYTWY[SEP]LVRKPSGAAA"
+    }
+]
