@@ -105,7 +105,7 @@ dataloader_num_workers：数据加载器的工作进程数。
 '''
 
 training_args = TrainingArguments(
-        report_to="wandb",  # 2485438bb42961f869bc4908951674962e75617b 2485438bb42961f869bc4908951674962e75617b
+        report_to="wandb", 
         do_train=True,
         do_eval=True,
         do_predict=True,
