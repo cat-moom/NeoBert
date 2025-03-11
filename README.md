@@ -33,7 +33,7 @@ git clone https://github.com/cat-moom/NeoBert.git
 cd NeoBert
 
 # Install required Python packages
- conda install --yes --file requirements.txt
+pip install -r requirements.txt
 ```
 
 #### Step 3: Download Pre-trained BERT Model
