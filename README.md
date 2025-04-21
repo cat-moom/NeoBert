@@ -20,7 +20,7 @@ A pre-trained model checkpoint for Bert can be downloaded from this link. https:
 #### Step 1: Set Up Conda Environment
 
 ```bash
-# Create virtual environment with Python 3.8
+# Create virtual environment with Python 3.12
 conda create -n NeoBert python=3.12
 conda activate NeoBert
 ```
